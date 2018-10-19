@@ -10,4 +10,4 @@ module.exports = {
     'no-implicit-dependencies': [true, 'dev'],
     'no-submodule-imports': false
   }
-};
+}
