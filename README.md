@@ -4,7 +4,7 @@
 
 This package includes the shareable [TSLint](https://palantir.github.io/tslint/) configuration used by [SEEK](https://github.com/seek-oss/).
 
-Note: this config assumes you are using `tsc` in strict mode. 
+Note: this assumes you’re using a tsconfig.json with strict and noUnusedLocals enabled.
 
 ## Usage
 
