@@ -10,7 +10,7 @@ Note: this config assumes you are using `tsc` in strict mode.
 
 First, install this package and TSLint.
 
-Then create a file named tslint.json with following contents in the root folder of your project:
+Then create a file named `tslint.json` with following contents in the root folder of your project:
 
 ```json
 {
