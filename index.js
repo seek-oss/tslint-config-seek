@@ -8,6 +8,7 @@ module.exports = {
     'ordered-imports': false,
     'interface-name': [true, 'never-prefix'],
     'no-implicit-dependencies': [true, 'dev'],
-    'no-submodule-imports': false
+    'no-submodule-imports': false,
+    'member-access': false
   }
 }
