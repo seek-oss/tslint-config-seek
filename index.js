@@ -1,14 +1,12 @@
 module.exports = {
-  extends: [
-    'tslint:latest', 
-    'tslint-config-prettier'
-  ],
+  extends: ['tslint:latest', 'tslint-config-prettier'],
   rules: {
-    'object-literal-sort-keys': false,
-    'ordered-imports': false,
     'interface-name': [true, 'never-prefix'],
+    'member-access': false,
+    'no-floating-promises': true,
     'no-implicit-dependencies': [true, 'dev'],
     'no-submodule-imports': false,
-    'member-access': false
+    'object-literal-sort-keys': false,
+    'ordered-imports': false
   }
-}
+};
