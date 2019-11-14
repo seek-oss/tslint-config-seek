@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['tslint:latest', 'tslint-config-prettier', 'tslint-react'],
+  extends: ['tslint:latest', 'tslint-react', 'tslint-config-prettier'],
   rules: {
     'interface-name': [true, 'never-prefix'],
     'member-access': false,
