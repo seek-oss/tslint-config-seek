@@ -28,7 +28,8 @@
     "commitlint-config-seek": "^1.0.0",
     "cz-conventional-changelog": "^2.1.0",
     "husky": "^1.1.2",
-    "semantic-release": "^15.9.17"
+    "semantic-release": "^15.9.17",
+    "tslint-react": "^4.1.0"
   },
   "release": {
     "success": false
