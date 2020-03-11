@@ -2,6 +2,8 @@
 
 # tslint-config-seek
 
+⚠️  **[TSLint is deprecated by upstream](https://github.com/palantir/tslint/issues/4534). Please use [eslint-config-seek](https://github.com/seek-oss/eslint-config-seek) instead.** ⚠️
+
 This package includes the shareable [TSLint](https://palantir.github.io/tslint/) configuration used by [SEEK](https://github.com/seek-oss/).
 
 Note: this assumes you’re using a tsconfig.json with strict and noUnusedLocals enabled.
